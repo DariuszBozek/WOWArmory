@@ -26,10 +26,11 @@ C:\Users\dariusz.bozek\source\repos\WOWArmory\WOWArmory\bin\Debug\Microsoft.Prac
 C:\Users\dariusz.bozek\source\repos\WOWArmory\WOWArmory\bin\Debug\Prism.xml
 C:\Users\dariusz.bozek\source\repos\WOWArmory\WOWArmory\bin\Debug\Prism.Unity.Wpf.xml
 C:\Users\dariusz.bozek\source\repos\WOWArmory\WOWArmory\bin\Debug\Prism.Wpf.xml
-C:\Users\dariusz.bozek\source\repos\WOWArmory\WOWArmory\obj\Debug\WOWArmory.csprojResolveAssemblyReference.cache
 C:\Users\dariusz.bozek\source\repos\WOWArmory\WOWArmory\obj\Debug\VIEWS\MainWindow.g.cs
 C:\Users\dariusz.bozek\source\repos\WOWArmory\WOWArmory\obj\Debug\VIEWS\ViewA.g.cs
 C:\Users\dariusz.bozek\source\repos\WOWArmory\WOWArmory\obj\Debug\VIEWS\MainWindow.baml
 C:\Users\dariusz.bozek\source\repos\WOWArmory\WOWArmory\obj\Debug\VIEWS\ViewA.baml
 C:\Users\dariusz.bozek\source\repos\WOWArmory\WOWArmory\obj\Debug\VIEWS\ViewB.g.cs
 C:\Users\dariusz.bozek\source\repos\WOWArmory\WOWArmory\obj\Debug\VIEWS\ViewB.baml
+C:\Users\dariusz.bozek\source\repos\WOWArmory\WOWArmory\obj\Debug\WOWArmory.csprojAssemblyReference.cache
+C:\Users\dariusz.bozek\source\repos\WOWArmory\WOWArmory\obj\Debug\WOWArmory.csproj.CopyComplete
