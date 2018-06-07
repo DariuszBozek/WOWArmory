@@ -8,9 +8,7 @@
              mc:Ignorable="d" 
              d:DesignHeight="400" d:DesignWidth="400">
     <Grid>
-        <Grid.Background>
-            <ImageBrush ImageSource="\\storage\MBDVC_USERS\dariusz.bozek\Desktop\Wow tła\ALIn.jpg"/>
-        </Grid.Background>
+        
 
 
         <TextBlock Text="Characters from the Alliance" FontSize="30"  Foreground="Blue"/>
